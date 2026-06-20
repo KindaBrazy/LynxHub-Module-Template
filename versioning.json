@@ -1,0 +1,24 @@
+{
+  "versions": [
+    {
+      "version": "1.0.0",
+      "commit": "abcdef1234567890abcdef1234567890abcdef12",
+      "engines": {
+        "moduleApi": "^1.0.0"
+      },
+      "stage": "public",
+      "platforms": ["win32", "linux", "darwin"]
+    }
+  ],
+  "changes": [
+    {
+      "version": "1.0.0",
+      "date": "2026-06-20",
+      "items": [
+        {
+          "🚀 New Features": ["Initial release of the template module."]
+        }
+      ]
+    }
+  ]
+}
