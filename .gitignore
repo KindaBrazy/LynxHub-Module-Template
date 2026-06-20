@@ -1,3 +1,6 @@
-package-lock.json
-.idea
-node_modules
+node_modules/
+dist/
+module_out/
+.DS_Store
+.agents
+.idea/

@@ -1,0 +1,11 @@
+{
+  "name": "lynxhub-module-template",
+  "version": "1.0.0",
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/your-username"
+  },
+  "homepage": "https://github.com/your-username/lynxhub-module-template",
+  "repository": "https://github.com/your-username/lynxhub-module-template",
+  "type": "module"
+}
