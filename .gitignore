@@ -1,6 +1,4 @@
 node_modules/
-dist/
-module_out/
 .DS_Store
-.agents
 .idea/
+package-lock.json
