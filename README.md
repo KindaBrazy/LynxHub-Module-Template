@@ -8,7 +8,7 @@ To develop and test your module locally:
 
 1. Clone this repository directly into the `/module` directory at the root of the LynxHub host application:
    ```bash
-   git clone <your-repository-url> module
+   git clone https://github.com/KindaBrazy/LynxHub-Module-Template module
    ```
 2. Run the host application in development mode:
    ```bash
